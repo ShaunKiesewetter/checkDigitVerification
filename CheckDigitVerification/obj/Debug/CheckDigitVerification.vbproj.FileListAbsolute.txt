@@ -1,0 +1,16 @@
+C:\oldcashbuddy\sources\ooz\Cashbuddy\CheckDigitVerification\bin\CheckDigitVerification.dll
+C:\oldcashbuddy\sources\ooz\Cashbuddy\CheckDigitVerification\bin\CheckDigitVerification.pdb
+C:\oldcashbuddy\sources\ooz\Cashbuddy\CheckDigitVerification\bin\CheckDigitVerification.xml
+C:\oldcashbuddy\sources\ooz\Cashbuddy\CheckDigitVerification\obj\Debug\CheckDigitVerification.vbproj.CoreCompileInputs.cache
+C:\oldcashbuddy\sources\ooz\Cashbuddy\CheckDigitVerification\obj\Debug\CheckDigitVerification.dll
+C:\oldcashbuddy\sources\ooz\Cashbuddy\CheckDigitVerification\obj\Debug\CheckDigitVerification.xml
+C:\oldcashbuddy\sources\ooz\Cashbuddy\CheckDigitVerification\obj\Debug\CheckDigitVerification.pdb
+C:\oldcashbuddy\sources\ooz\Cashbuddy\CheckDigitVerification\obj\Debug\CheckDigitVerification.vbprojAssemblyReference.cache
+F:\Shaun\oldcashbuddy\sources\ooz\Cashbuddy\CheckDigitVerification\bin\CheckDigitVerification.dll
+F:\Shaun\oldcashbuddy\sources\ooz\Cashbuddy\CheckDigitVerification\bin\CheckDigitVerification.pdb
+F:\Shaun\oldcashbuddy\sources\ooz\Cashbuddy\CheckDigitVerification\bin\CheckDigitVerification.xml
+F:\Shaun\oldcashbuddy\sources\ooz\Cashbuddy\CheckDigitVerification\obj\Debug\CheckDigitVerification.vbprojAssemblyReference.cache
+F:\Shaun\oldcashbuddy\sources\ooz\Cashbuddy\CheckDigitVerification\obj\Debug\CheckDigitVerification.vbproj.CoreCompileInputs.cache
+F:\Shaun\oldcashbuddy\sources\ooz\Cashbuddy\CheckDigitVerification\obj\Debug\CheckDigitVerification.dll
+F:\Shaun\oldcashbuddy\sources\ooz\Cashbuddy\CheckDigitVerification\obj\Debug\CheckDigitVerification.xml
+F:\Shaun\oldcashbuddy\sources\ooz\Cashbuddy\CheckDigitVerification\obj\Debug\CheckDigitVerification.pdb

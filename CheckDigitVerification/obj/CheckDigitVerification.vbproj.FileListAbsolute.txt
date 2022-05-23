@@ -1,0 +1,7 @@
+C:\Development\CheckDigitVerification\bin\CheckDigitVerification.dll
+C:\Development\CheckDigitVerification\bin\CheckDigitVerification.pdb
+C:\Development\CheckDigitVerification\bin\CheckDigitVerification.xml
+C:\Development\CheckDigitVerification\obj\Debug\ResolveAssemblyReference.cache
+C:\Development\CheckDigitVerification\obj\Debug\CheckDigitVerification.dll
+C:\Development\CheckDigitVerification\obj\Debug\CheckDigitVerification.xml
+C:\Development\CheckDigitVerification\obj\Debug\CheckDigitVerification.pdb

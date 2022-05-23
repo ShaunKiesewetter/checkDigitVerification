@@ -1,0 +1,6 @@
+C:\oldcashbuddy\sources\ooz\Cashbuddy\CheckDigitVerification\bin\CheckDigitVerification.dll
+C:\oldcashbuddy\sources\ooz\Cashbuddy\CheckDigitVerification\bin\CheckDigitVerification.xml
+C:\oldcashbuddy\sources\ooz\Cashbuddy\CheckDigitVerification\bin\CheckDigitVerification.tlb
+C:\oldcashbuddy\sources\ooz\Cashbuddy\CheckDigitVerification\obj\Release\CheckDigitVerification.vbproj.CoreCompileInputs.cache
+C:\oldcashbuddy\sources\ooz\Cashbuddy\CheckDigitVerification\obj\Release\CheckDigitVerification.dll
+C:\oldcashbuddy\sources\ooz\Cashbuddy\CheckDigitVerification\obj\Release\CheckDigitVerification.xml
